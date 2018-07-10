@@ -1,4 +1,4 @@
 me=[18, "Jupiter", "blue"]
 puts me
-me-=["18"]
+array-=["18"]
 puts me 
